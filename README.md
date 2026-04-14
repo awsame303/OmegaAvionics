@@ -1,5 +1,8 @@
 # 🚀 Omega Avionics — L1 Certification Rocket
 
+<img width="1119" height="426" alt="Screenshot 2026-04-14 at 5 32 18 PM" src="https://github.com/user-attachments/assets/ca16155c-7785-469d-9017-6db219f035bc" />
+
+
 A custom-built high-power rocket with a fully designed avionics bay, dual-deployment chute release system, and custom PCB — built to earn an **NAR/Tripoli L1 certification** (H & I class motors).
 
 > **Status:** Design Phase · 74+ hours logged  
@@ -16,6 +19,8 @@ This project combines mechanical engineering, embedded systems, and PCB design i
 ## Hardware
 
 ### Avionics PCB
+
+<img width="968" height="410" alt="image" src="https://github.com/user-attachments/assets/d2500769-26f7-4729-8372-586a7c94e16e" />
 
 The custom PCB is the heart of the avionics bay. Designed from scratch in EasyEDA.
 
@@ -68,6 +73,9 @@ Key design challenges:
 - **Rail buttons** — Offset mate connectors to mount flush to the body tube exterior
 
 Simulation and stability analysis done in **OpenRocket**.
+
+<img width="1405" height="332" alt="image" src="https://github.com/user-attachments/assets/382ac787-cd55-4763-b731-5b9cbfcac9e1" />
+
 
 ---
 
