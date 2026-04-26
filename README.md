@@ -21,6 +21,12 @@ This project combines mechanical engineering, embedded systems, and PCB design i
 
 The custom PCB is the heart of the avionics bay, and I Designed it! from scratch in EasyEDA.
 
+<img width="995" height="483" alt="Screenshot 2026-04-26 at 9 55 04 AM" src="https://github.com/user-attachments/assets/2a14634f-eb3d-47f6-a967-6062fed2c571" />
+> I made another version without RF in case it doesn't work and I made it able to short the pins if I didn't want to use it. In case you were wondering why it wasn't on the PCBA or the BOM
+
+<img width="821" height="403" alt="Screenshot 2026-04-26 at 9 55 17 AM" src="https://github.com/user-attachments/assets/428f6a4c-ce3e-43fe-9136-9c355863cea5" />
+
+
 
 ## Firmware
 
