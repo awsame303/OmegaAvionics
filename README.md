@@ -5,8 +5,6 @@
 
 A custom-built high-power rocket with a fully designed avionics bay, dual-deployment chute release system, and custom PCB — built to earn an **NAR/Tripoli L1 certification** (H & I class motors) :O
 
-> **Stasis Project:** [View on Stasis](https://stasis.hackclub.com)
-
 
 ## Overview
 
