@@ -10,7 +10,11 @@ A custom-built high-power rocket with a fully designed avionics bay, dual-deploy
 
 ## Overview
 
-This project combines mechanical engineering, embedded systems, and PCB design into a single flight vehicle. The goal is a rocket capable of flying on H and I class motors with onboard data logging, IMU-based orientation tracking, barometric altitude sensing, and an automated parachute deployment system. I made it because I wanted to expand my love for rocketry and actually learn a lot about data collection, how to make things that can survive high stress environments, and how to use fillets and other building related things. My ultimate goal for this project is to make a cool rocket that flighs high but also gives me valuable data that I can learn a lot about engineering and aerospace from. 
+This project combines mechanical engineering, embedded systems, and PCB design into a single flight vehicle. The goal is a rocket capable of flying on H and I class motors with onboard data logging, IMU-based orientation tracking, barometric altitude sensing, and an automated parachute deployment system. 
+
+## Purpose
+
+I made it because I wanted to expand my love for rocketry and actually learn a lot about data collection, how to make things that can survive high stress environments, and how to use fillets and other building related things. My ultimate goal for this project is to make a cool rocket that flighs high but also gives me valuable data that I can learn a lot about engineering and aerospace from. I was inspired from my TARC rocketry team, and ultimately wanted to build something with a bit more juice that can fly higher and be more stable. I think that if this goes well, it will be fun to build and assemble. I'm especially excited to paint it, because I heard that it's one of the most challening parts. 
 
 
 ## Hardware
