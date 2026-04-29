@@ -38,6 +38,8 @@ Firmware is written for the ESP32-S3
 ## CAD
 
 Full rocket assembly modeled in Onshape
+[Link](https://cad.onshape.com/documents/853f342d943e26935c21807b/w/3225035a6dba25a7b5e66f22/e/7ca1891e4b8cbf6983780e85?renderMode=0&uiState=69f15c5d583fc5b2eb4dc593)
+
 
 Simulation and stability analysis done in Openrocket
 
